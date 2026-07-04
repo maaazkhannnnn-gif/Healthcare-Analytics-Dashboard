@@ -168,15 +168,11 @@ Healthcare-Analytics-Dashboard
 
 ## Executive Summary
 
-> *(Insert Screenshot Here)*
-
 ![Executive Dashboard](assets/healthcare_analytics_1.jpg)
 
 ---
 
-## Medical Insights
-
-> *(Insert Screenshot Here)*
+## Medical Insight
 
 ![Medical Dashboard](assets/healthcare_2.jpg)
 
@@ -184,7 +180,6 @@ Healthcare-Analytics-Dashboard
 
 ## Billing & Insurance Analysis
 
-> *(Insert Screenshot Here)*
 
 ![Billing Dashboard](assets/healthcare_demographic_3.jpg)
 
